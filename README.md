@@ -1,5 +1,5 @@
-# Python-IBIN
-A scripts that encrypts a string of characters with my home-made algorithm, IBIN (Inverted-BINary)
+# IBIN
+A script that encrypts a string of characters with my home-made algorithm, IBIN (Inverted-BINary)
 
 Thank you to all the contributors:
 
